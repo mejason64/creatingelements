@@ -1,0 +1,13 @@
+/*my dev scss file*/
+#addItem {
+  border-color: red;
+  border-radius: 40%;
+}
+
+#myItem {
+  border-color: blue;
+}
+
+ul li {
+  display: inline-block;
+}
